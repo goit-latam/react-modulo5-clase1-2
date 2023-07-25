@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-modulo5-clase1-2/static/css/main.024ae58b.css",
-    "main.js": "/react-modulo5-clase1-2/static/js/main.8fe00c4c.js",
+    "main.js": "/react-modulo5-clase1-2/static/js/main.44f47876.js",
     "static/css/917.b2bcad15.chunk.css": "/react-modulo5-clase1-2/static/css/917.b2bcad15.chunk.css",
     "static/js/917.c6b2929e.chunk.js": "/react-modulo5-clase1-2/static/js/917.c6b2929e.chunk.js",
     "static/css/792.c3e445af.chunk.css": "/react-modulo5-clase1-2/static/css/792.c3e445af.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/279.240e1847.chunk.js": "/react-modulo5-clase1-2/static/js/279.240e1847.chunk.js",
     "index.html": "/react-modulo5-clase1-2/index.html",
     "main.024ae58b.css.map": "/react-modulo5-clase1-2/static/css/main.024ae58b.css.map",
-    "main.8fe00c4c.js.map": "/react-modulo5-clase1-2/static/js/main.8fe00c4c.js.map",
+    "main.44f47876.js.map": "/react-modulo5-clase1-2/static/js/main.44f47876.js.map",
     "917.b2bcad15.chunk.css.map": "/react-modulo5-clase1-2/static/css/917.b2bcad15.chunk.css.map",
     "917.c6b2929e.chunk.js.map": "/react-modulo5-clase1-2/static/js/917.c6b2929e.chunk.js.map",
     "792.c3e445af.chunk.css.map": "/react-modulo5-clase1-2/static/css/792.c3e445af.chunk.css.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.024ae58b.css",
-    "static/js/main.8fe00c4c.js"
+    "static/js/main.44f47876.js"
   ]
 }

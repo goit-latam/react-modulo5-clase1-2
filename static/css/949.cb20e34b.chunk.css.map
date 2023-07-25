@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/949.cb20e34b.chunk.css","mappings":"AAAA,gCACE,aAEA,SADA,eACA,CAGF,gCAEE,sBADA,YACA","sources":["pages/CommentsPage/comments-page.module.scss"],"sourcesContent":[".postsList {\n  display: flex;\n  margin-top: 20px;\n  gap: 10px;\n}\n\n.postsItem {\n  padding: 20px;\n  border: 2px solid black;\n}\n"],"names":[],"sourceRoot":""}

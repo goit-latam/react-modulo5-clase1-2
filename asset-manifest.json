@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-modulo5-clase1-2/static/css/main.024ae58b.css",
+    "main.js": "/react-modulo5-clase1-2/static/js/main.5e1e92f9.js",
+    "static/css/917.b2bcad15.chunk.css": "/react-modulo5-clase1-2/static/css/917.b2bcad15.chunk.css",
+    "static/js/917.c6b2929e.chunk.js": "/react-modulo5-clase1-2/static/js/917.c6b2929e.chunk.js",
+    "static/css/792.c3e445af.chunk.css": "/react-modulo5-clase1-2/static/css/792.c3e445af.chunk.css",
+    "static/js/792.1d5e6ebf.chunk.js": "/react-modulo5-clase1-2/static/js/792.1d5e6ebf.chunk.js",
+    "static/js/26.3f2e1e69.chunk.js": "/react-modulo5-clase1-2/static/js/26.3f2e1e69.chunk.js",
+    "static/js/869.8708ce25.chunk.js": "/react-modulo5-clase1-2/static/js/869.8708ce25.chunk.js",
+    "static/css/949.cb20e34b.chunk.css": "/react-modulo5-clase1-2/static/css/949.cb20e34b.chunk.css",
+    "static/js/949.690e7848.chunk.js": "/react-modulo5-clase1-2/static/js/949.690e7848.chunk.js",
+    "static/js/794.057b56cc.chunk.js": "/react-modulo5-clase1-2/static/js/794.057b56cc.chunk.js",
+    "static/js/279.240e1847.chunk.js": "/react-modulo5-clase1-2/static/js/279.240e1847.chunk.js",
+    "index.html": "/react-modulo5-clase1-2/index.html",
+    "main.024ae58b.css.map": "/react-modulo5-clase1-2/static/css/main.024ae58b.css.map",
+    "main.5e1e92f9.js.map": "/react-modulo5-clase1-2/static/js/main.5e1e92f9.js.map",
+    "917.b2bcad15.chunk.css.map": "/react-modulo5-clase1-2/static/css/917.b2bcad15.chunk.css.map",
+    "917.c6b2929e.chunk.js.map": "/react-modulo5-clase1-2/static/js/917.c6b2929e.chunk.js.map",
+    "792.c3e445af.chunk.css.map": "/react-modulo5-clase1-2/static/css/792.c3e445af.chunk.css.map",
+    "792.1d5e6ebf.chunk.js.map": "/react-modulo5-clase1-2/static/js/792.1d5e6ebf.chunk.js.map",
+    "26.3f2e1e69.chunk.js.map": "/react-modulo5-clase1-2/static/js/26.3f2e1e69.chunk.js.map",
+    "869.8708ce25.chunk.js.map": "/react-modulo5-clase1-2/static/js/869.8708ce25.chunk.js.map",
+    "949.cb20e34b.chunk.css.map": "/react-modulo5-clase1-2/static/css/949.cb20e34b.chunk.css.map",
+    "949.690e7848.chunk.js.map": "/react-modulo5-clase1-2/static/js/949.690e7848.chunk.js.map",
+    "794.057b56cc.chunk.js.map": "/react-modulo5-clase1-2/static/js/794.057b56cc.chunk.js.map",
+    "279.240e1847.chunk.js.map": "/react-modulo5-clase1-2/static/js/279.240e1847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.024ae58b.css",
+    "static/js/main.5e1e92f9.js"
+  ]
+}

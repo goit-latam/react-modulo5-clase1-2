@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclass_components_state_example=self.webpackChunkclass_components_state_example||[]).push([[794],{794:function(e,s,a){a.r(s);var n=a(184);s.default=function(){return(0,n.jsx)("div",{className:"container",children:(0,n.jsx)("h1",{className:"page-title",children:"Not found page"})})}}}]);
+//# sourceMappingURL=794.057b56cc.chunk.js.map

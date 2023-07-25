@@ -7,7 +7,7 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/your_repo_name/">
+    <BrowserRouter basename="/react-modulo5-clase1-2/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
